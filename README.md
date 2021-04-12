@@ -8,4 +8,4 @@ it is softly switching on and off, flash mode in which it is toggling on and off
 Current working mode is being displayed on the 2x16 LCD screen as well as blink/flash time interval or dimm percentage. Another info shown by the screen is whether at given time the diode is controlled by computer or potentiometer connected to the microcontroller.
 
 ## Sources
-LCD_HD44780_IO library was used
+LCD_HD44780_IO library provided on the university course was used.
