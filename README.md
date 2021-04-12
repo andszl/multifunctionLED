@@ -7,4 +7,4 @@ Program is written to be used with Arduino Uno evaluation boars. Microcontroller
 it is softly switching on and off, flash mode in which it is toggling on and off and dimming mode in wich LED is dimmed. All three modes can be controlled either by potentiometer or computer via serial monitor.
 Current working mode is being displayed on the LCD screen as well as blink/flash time interval or dimm percentage. Another info shown by the screen is whether at given time the diode is controlled by computer or potentiometer connected to the microcontroller.
 
-##Sources
+## Sources
